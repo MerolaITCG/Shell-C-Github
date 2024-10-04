@@ -1,1 +1,23 @@
 # Shell-C-Github
+### Esercizio 0
+- apri una shell dell'emulatore linux su windows (Windows Subsystem for Linux - WSL)
+- se non sai quali parametri dare ad un comando, digita: `<nome_comando> --help` oppure `<nome_comando> -h`
+- lancia un comando per capire in quale cartella ti trovi (Hint: Print Working Directory)
+- lancia un comando per capire come spostarti nella cartella padre (Hint: Change Directory)
+- lancia un comando per stampare una lista delle cartelle e dei file contenuti nella cartella corrente (Hint: LiSt)
+- crea un nuova directory (cartella, MaKe DIRectory) chiamata "tuo_nome"
+- entra nella cartella che hai creato
+- controlla che sia stata correttamente creata
+- crea un file vuoto chiamato `testo.txt` ( Hint: `touch <nomefile>` )
+- controlla che sia stato correttamente creato
+- lancia un comando per capire chi è il proprietario del file creato
+- spostati nella cartella padre
+- elimina la cartella che avevi creato (Hint: ReMove)
+- lancia il comando per visualizzare tutti i processi in esecuzione (`htop`)
+
+### Esercizio 1
+- crea un file chiamandolo `hello_world.c`
+- apri il file creato e scrivi un programma in `c` che mi stampi "Hello World" (Hint: nano)
+- - ricordati di mettere in alto
+  - - `#include<stdio.h>`
+  - - `#include<stdlib.h>`
