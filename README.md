@@ -8,7 +8,7 @@
 
 ### Esercizio 0
 - apri una shell dell'emulatore linux su windows (Windows Subsystem for Linux - WSL)
-- se non sai quali parametri dare ad un comando, digita: `<nome_comando> --help` oppure `<nome_comando> -h`
+- in generale, per i prossimi esercizi, se non sai quali parametri dare ad un comando, digita: `<nome_comando> --help` oppure `<nome_comando> -h`
 - lancia un comando per capire in quale cartella ti trovi (Hint: Print Working Directory)
 - lancia un comando per capire come spostarti nella cartella padre (Hint: Change Directory)
 - lancia un comando per stampare una lista delle cartelle e dei file contenuti nella cartella corrente (Hint: LiSt)
