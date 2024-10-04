@@ -1,4 +1,11 @@
-# Shell-C-Github
+# Shell-C-GitHub
+<p align="center">
+  <a href="#" target="_blank"><img alt="shell_logo" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+  <a href="#" target="_blank"><img alt="git_logo" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="#" target="_blank"><img alt="c_logo" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+  <a href="#" target="_blank"><img alt="ubuntu_logo" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+</p>
+
 ### Esercizio 0
 - apri una shell dell'emulatore linux su windows (Windows Subsystem for Linux - WSL)
 - se non sai quali parametri dare ad un comando, digita: `<nome_comando> --help` oppure `<nome_comando> -h`
