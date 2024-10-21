@@ -28,3 +28,10 @@
 - - ricordati di mettere in alto
   - - `#include<stdio.h>`
   - - `#include<stdlib.h>`
+   
+### Esercizio 2
+- somma di due numeri
+- media tra due numeri
+- chiedi due numeri A e B e stampa quale dei due è più grande
+- somma N valori, con N dato in input (senza usare vettori)
+- riempi un vettore di dimensione N, con N dato in input, e fai un menù che mi permette di 1) stampare la somma di tutti i numeri; 2) la differenza di tutti i numeri; 3) la media; 4) l'indice dell'elemento più grande; 5) l'indice dell'elemento più piccolo; 6) ricerca un elemento dato in input e stampa il suo indice.
